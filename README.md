@@ -1,5 +1,4 @@
 # Power Platform
-Power Platform solutions for others to leverage
 
 ## Block my calendar for 15 minutes after a long meeting
 #### As many of us are now remote workers, it's easy to end up with a day of back-to-back events on your calendar.  
