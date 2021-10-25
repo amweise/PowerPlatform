@@ -7,3 +7,5 @@ Power Platform solutions for others to leverage
 This Power Automate workflow analyzes new events added to your calendar and if the event is longer than the specified duration (by default 90 minutes), Power Automate verifies your calendar doesn't have a event directly after the long meeting and adds a 15 minute block to your calendar.
 
 ![flow2 1](https://user-images.githubusercontent.com/45173956/138752560-5d703575-a25c-447b-a0f1-ab244926aa66.png)
+
+Note: this workflow has a trigger condition that blocks the workflow from kicking itself off: it is based on the meeting "subject".  If you change the default subject of the meeting to something else, make sure you also change the trigger condition.
