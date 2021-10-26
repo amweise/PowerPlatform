@@ -8,3 +8,11 @@ This Power Automate workflow analyzes new events added to your calendar and if t
 ![flow2 1](https://user-images.githubusercontent.com/45173956/138752560-5d703575-a25c-447b-a0f1-ab244926aa66.png)
 
 Note: this workflow has a trigger condition that blocks the workflow from kicking itself off: it is based on the meeting "subject".  If you change the default subject of the meeting to something else, make sure you also change the trigger condition.
+
+## Send Me New Power Apps and Power Automate Blog Posts in Teams
+#### These two workflows ensure that you are staying up-to-date on all the new Power Apps/Power Automate news
+Using adaptive cards in Teams chat, you can receive actionable messages regarding new Power Platform updates
+#### Power Apps
+![appsblog1](https://user-images.githubusercontent.com/45173956/138892325-2b1ec740-26da-44ff-8b10-df1c5c0befd2.png)
+#### Power Automate
+![flowblog1](https://user-images.githubusercontent.com/45173956/138892333-a80c6971-24ac-4f6b-97ec-58ee239af274.png)
