@@ -13,6 +13,7 @@ Note: this workflow has a trigger condition that blocks the workflow from kickin
 #### These two workflows ensure that you are staying up-to-date on all the new Power Apps/Power Automate news
 Using adaptive cards in Teams chat, you can receive actionable messages regarding new Power Platform updates
 #### Power Apps
-![appsblog1](https://user-images.githubusercontent.com/45173956/138892325-2b1ec740-26da-44ff-8b10-df1c5c0befd2.png)
+![appsblog2](https://user-images.githubusercontent.com/45173956/138892937-0d472831-d1e5-42b3-9c9b-67c3e719eafd.png)
 #### Power Automate
-![flowblog1](https://user-images.githubusercontent.com/45173956/138892333-a80c6971-24ac-4f6b-97ec-58ee239af274.png)
+![flowblog2](https://user-images.githubusercontent.com/45173956/138892950-29560ffb-1879-44fc-8a49-dfbc3b15e6d0.png)
+
