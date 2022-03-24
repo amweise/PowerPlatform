@@ -1,12 +1,12 @@
 # Power Platform
 
 ## Create a "back-channel" internal chat for any meeting
-#### We've all be there - you're on a call with a customer and members of your team and you want to chat with your teammates.  Unfortunately, it's a manual process.   
+#### We've all been there - you're on a call with a customer and members of your team and you want to chat with your teammates.  Unfortunately, it's a manual process.   
 QuickChat is a Power App that pulls in your calendar information from your Office 365 Outlook calendar.  The app user can then select a meeting to create the internal chat for.
 
 ![quickChat1](https://user-images.githubusercontent.com/45173956/159943415-84c7212f-a5a7-43a0-8067-e22eee59e707.png)
 
-A Power Automate workflow is then kicked off, grabbing all required attendees for that meeting and then filtering out any individual whose domain (the @company.com part of your email) that doesn't match your own domain.
+A Power Automate workflow is then kicked off, grabbing all required attendees for that meeting and then filtering out any individual whose domain (the @company.com part of your email) does not match your own domain.
 A Teams group chat is then created with all internal, required attendees and is named "Internal - <Meeting Name>".  Lastly, the first chat message is sent by the Power Automate bot informing individuals that the chat was created.
 The outcome is a Teams group chat, ready for you to use!
   
